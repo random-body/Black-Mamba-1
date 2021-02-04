@@ -10,7 +10,7 @@
       
       <div class="md-toolbar-section-start">
         
-        <h3 class="md-title"><a class="home" href="#/"><img src="../assets/img/leaf-white.png" alt="feuille logo" style="width: 40px;">Green Tech</a></h3>
+        <h3 class="md-title"><a class="home" href="#/"><img src="../assets/img/leaf-white.png" alt="feuille logo" style="width: 40px;">Green Digital</a></h3>
       </div>
       <div class="md-toolbar-section-end">
         <md-button

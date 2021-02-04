@@ -26,7 +26,7 @@
       </nav>
       <div class="copyright">
         &copy; {{ year }}, made with <md-icon>favorite</md-icon> by
-        <a href="#/">Green Tech</a>
+        <a href="#/">Green Digital</a>
         for a better web.
       </div>
     </div>

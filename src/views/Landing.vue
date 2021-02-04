@@ -31,7 +31,7 @@
             >
               <h2 class="title text-center">Parlons business</h2>
               <h5 class="description">
-                Depuis 2012 Green Tech s'éfforce d'accompagner les entreprises du perche dans leurs démarches de création de site web.
+                Depuis 2012 Green Digital s'éfforce d'accompagner les entreprises du perche dans leurs démarches de création de site web.
               </h5> 
             </div>
           </div>
@@ -234,7 +234,7 @@
             <div class="md-layout-item md-size-66 md-xsmall-size-100 mx-auto">
               <h2 class="text-center title">Travailler avec nous</h2>
               <h4 class="text-center description">
-                Green Tech est toujours à la recherche de developpeur passionné, n'hésitez pas
+                Green Digital est toujours à la recherche de developpeur passionné, n'hésitez pas
                 à nous envoyer une candidature spontanée, c'est celle que nous préférons!
               </h4>
               <form class="contact-form">

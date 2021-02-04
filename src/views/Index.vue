@@ -9,7 +9,7 @@
             <img :src="leaf2" alt="leaf2" class="leaf2" v-show="leafShow" />
             <img :src="leaf1" alt="leaf1" class="leaf1" v-show="leafShow" />
             <div class="brand">
-              <h1>GREEN TECH</h1>
+              <h1>GREEN DIGITAL</h1>
               <h3>Création de site internet sur mesure</h3>
             </div>
           </div>
@@ -26,9 +26,9 @@
               <h2 class="title text-center">Qui sommes nous ?</h2>
               
               <h5 class="description">
-                Fondé en 2012 par Olivier Legirond et sa femme Nessa, Green Tech et une agence digitale aux valeurs écologiques fortes. Nous 
+                Fondé en 2012 par Olivier Legirond et sa femme Nessa, Green Digital et une agence digitale aux valeurs écologiques fortes. Nous 
                 soutenons en priorités les sart-ups, entreprises ou associations ayant au centre de leur activité la volonté d'agir en faveur de l'environement 
-                et pour une économie inclusive. Basé au coeur du perche, Green Tech s'est donné pour mission la création de site internet qui participeront 
+                et pour une économie inclusive. Basé au coeur du perche, Green Digital s'est donné pour mission la création de site internet qui participeront 
                 aux changements de demain.
               </h5> 
             </div>
