@@ -3,31 +3,23 @@
     <div class="section page-header header-filter" :style="headerStyle">
       <div class="container">
         <div class="md-layout">
-          <div
-            class="md-layout-item md-size-33 md-small-size-66 md-xsmall-size-100 md-medium-size-40 mx-auto"
-          >
-            
-
+          <div class="md-layout-item md-size-33 md-small-size-66 md-xsmall-size-100 md-medium-size-40 mx-auto">
         <div class="container-contact2">
           <h3>Be wild</h3>
-        
           <div class="wrap-contact2">
             <form class="contact2-form validate-form contact-form" @submit.prevent="sendEmail">
             <span class="contact2-form-title">Contactez nous</span>
             <div class="wrap-input2 validate-input" data-validate="Nom requis">
               <md-icon class="md1">face</md-icon>
               <input placeholder="Nom ou entreprise..." class="input2" type="text" name="user_name" required>
-              
             </div>
             <div class="wrap-input2 validate-input" data-validate="Email valide requis">
               <md-icon class="md1">email</md-icon>
               <input placeholder="Email..." type="text" name="user_email" class="input2" required>
-              
             </div>
             <div class="wrap-input2 validate-input" data-validate="Message requis">
               <md-icon class="md">chat</md-icon>
               <textarea required placeholder="Message..." name="message" id="" cols="30" rows="10"></textarea>
-              
             </div>
             <div class="container-contact2-form-btn">
               <div class="wrap-contact2-form-btn">
@@ -38,11 +30,7 @@
             </div>
             </form>
           </div>
-
     </div>
-
-
-
   <transition name="modal" class="modal">
     <div class="modal-mask">
       <div class="modal-wrapper">
@@ -50,11 +38,9 @@
           <div class="modal-header">
             <slot name="header"></slot>
           </div>
-
           <div class="modal-body text-center">
             <slot name="body">Message envoyé avec succé!</slot>
           </div>
-
           <div class="modal-footer" onClick="window.location.reload();">
             <slot name="footer">Fermer</slot>
           </div>
@@ -62,9 +48,6 @@
       </div>
     </div>
   </transition>
-
-
-
           </div>
         </div>
       </div>
